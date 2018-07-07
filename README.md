@@ -1,2 +1,2 @@
 # sentiment-analysis-using-CNN-LSTM-for-twitter
-We will do the sentiment analysis on twitter using a combination of CNN and LSTM. The data
+We did the sentiment analysis on twitter using a combination of CNN and LSTM. Google Word2Vec pretrained model was used for embedding layer, however the number of word list was reduced to 50,000. The dataset can be downloaded from http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/ and Google pretrained word2vec model can be downloaded from https://code.google.com/archive/p/word2vec/
